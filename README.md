@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live URL
 
-live url: 
+live url: https://moviepor.netlify.app/
 
 ## Available Scripts
 
